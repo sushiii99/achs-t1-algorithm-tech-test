@@ -1,0 +1,10 @@
+{
+	"name": "e1-coding-test-revalidate-process-pending-days-calculator",
+	"scripts": {
+		"test": "vitest"
+	},
+	"devDependencies": {
+		"vitest": "^2.0.3"
+	},
+	"type": "module"
+}
